@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.catppuccin_latte",
+  "name": "Catppuccin Latte Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Soothing warm light pastel palette from the Catppuccin project",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-catppuccin-latte"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Catppuccin Latte",
+  "type": "light",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#EFF1F5",
+    "barBg": "#E6E9EF",
+    "text": "#4C4F69",
+    "muted": "#9CA0B0",
+    "accent": "#1E66F5",
+    "activeLine": "#DCE0E8",
+    "cursor": "#DC8A78",
+    "border": "#BCC0CC"
+  }
+}
